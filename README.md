@@ -16,5 +16,5 @@
      *****      *******   *****        ***         ****      *******   **   *** * 
       ***        *****     ***                                *****     **   ***  
       
-    <i>this is still a heavy WIP so don't expect anything of note yet</i>
+<i>this is still a heavy WIP so don't expect anything of note yet</i>
 </div>
